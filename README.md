@@ -1,16 +1,7 @@
 ### Hi there 👋
 
-<!--
-**AgaSzyp/AgaSzyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github profile. I'm Agata working as Salesforce QA. Im training to get some experience in automatic tetsing. Wish me luck!
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/agata/)  
 
-- 🔭 I’m currently working on Salesforce Project with API testing
-- 🌱 I’m currently learning Postman
-- 👯 I’m looking to collaborate on Automation Testing
-- 🤔 I’m looking for help with maybe later 
-- 💬 Ask me about Salesforce, manual testing
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: She/ Her
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agaszyp)](https://github.com/anuraghazra/github-readme-stats)
