@@ -7,8 +7,8 @@
 
 ## 🧰 Skills and Tools:</h3>
 ✔️Java, Selenium, Cucumber <br>
-✔️Postman, Json, Testim <br>
-✔️Tosca, Provar,  <br>
+✔️Postman, Json <br>
+✔️Testim, Tosca, Provar  <br>
 ✔️Salesforce: Sales Cloud, Service Cloud, Experience Cloud, FSL, SOQL <br>
 ✔️Photoshop, Canva <br>
 ✔️mySQL
