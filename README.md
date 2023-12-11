@@ -2,7 +2,7 @@
 
 
 ## I'm Agata 👩‍💻
-👉 I'm 💼 working as Salesforce QA. <br>👉 Im training to get some experience in 💻automatic testing <br>
+👉 I 💼 work as Salesforce QA. <br>👉 Im training to get more experience in 💻automatic testing <br>
 
 
 ## 🧰 Skills and Tools:</h3>
