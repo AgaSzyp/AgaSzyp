@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my github profile. I'm Agata working as Salesforce QA. Im training to get some experience in automatic tetsing. Wish me luck!
+Welcome to my github profile. I'm Agata working as Salesforce QA. Im training to get some experience in automatic testing. Wish me luck!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/agata/)  
 
