@@ -1,5 +1,7 @@
-## I'm Agata 👩‍💻
+![I am GitHub Readme Generator's creator](https://github.com/AgaSzyp/AgaSzyp/blob/main/github%20banner2.jpg)
 
+
+## I'm Agata 👩‍💻
 👉 I'm 💼 working as Salesforce QA. <br>👉 Im training to get some experience in 💻automatic testing <br>
 
 
