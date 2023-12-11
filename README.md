@@ -1,8 +1,9 @@
 ### Hi there, I'm Agata 👋
 
-Welcome to my github profile. I'm working as Salesforce QA. Im training to get some experience in automatic testing. Wish me luck!
+Welcome to my github profile. I'm 💼 working as Salesforce QA. Im training to get some experience in 💻automatic testing. Wish me luck ✨ !
 
-:star: **Skills*
+:star: **Skills**
+Java | Selenium | Postman | Tosca | Provar
 
 
 
