@@ -6,13 +6,13 @@
 
 
 ## 🧰 Skills and Tools:</h3>
-✔️Java, Selenium <br>
+✔️Java, Selenium, Cucumber <br>
 ✔️Postman, Json <br>
 ✔️Salesforce: Sales Cloud, Service Cloud, Experience Cloud, FSL, SOQL <br>
-✔️Photoshop <br>
+✔️Photoshop, Canva <br>
 ✔️mySQL
 
 
-#### 🔎 Find me on  <br>
+#### 🔎 Find me on  <br> ⬇️
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/)  
 
