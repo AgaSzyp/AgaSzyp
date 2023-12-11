@@ -13,6 +13,7 @@
 ✔️mySQL
 
 
-#### 🔎 Find me on  <br> ⬇️
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/)  
+#### 🔎 Find me on 
+[<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin-horizontal.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/)  
+
 
