@@ -14,6 +14,6 @@
 
 
 #### 🔎 Find me on 
-[<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin-horizontal.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/)  
+[<img src='https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin-horizontal.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aga-szypulska)  
 
 
